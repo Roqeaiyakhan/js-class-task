@@ -14,12 +14,15 @@
 //var result = firstNumber - secondNumber;
 //console.log({result});
 
+//pre
 //var num = 1;
 //var newNum = ++num;
 //console.log(newNum++);
-var num = 1;
-var newNum = num++;
-console.log(newNum);
+
+//post
+//var num = 1;
+//var newNum = num++;
+//console.log(newNum);
 
 //subtraction
 //var x = 2 - "1";
@@ -41,3 +44,4 @@ console.log(newNum);
 //Division
 //var x = 7 / 5;
 //console.log(x);
+
